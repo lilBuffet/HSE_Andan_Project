@@ -3,6 +3,8 @@
 ## Проект по анализу данных различных фильмов. 
 Изначальный датасет взят отсюда: https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 
+Файл с зависимостями представлен в виде файла Requirements.txt 
+
 ## В ходе анализа будут необходимы дополнительные данные.
 ### Эти данные получены путем парсинга нескольких веб-страниц, код лежит в Parser.ipynb
 Данные о знаменитых актерах представлены в виде файла ActorsFile.txt, лежат в папке data, взяты отсюда: https://newsblare.com/lifestyle/celebrity-voice/top-best-actors-in-the-world/ 
